@@ -1,8 +1,6 @@
 # Early-Warning Vital Signs Wearable
 
-**SmartX Hackathon 2026 — Smart Healthcare Track**
-
-A low-cost, wearable early-warning system that monitors patients' vital signs in real time and alerts nursing staff before deterioration becomes critical — bringing early-warning intelligence to understaffed hospital wards.
+A low-cost, wearable early-warning system that monitors patients' vital signs in real time and alerts nursing staff before deterioration becomes critical bringing early-warning intelligence to understaffed hospital wards.
 
 ## Problem
 
@@ -29,21 +27,5 @@ Readings feed into a lightweight early-warning scoring model (inspired by clinic
 - Backend: real-time data ingestion + scoring model
 - Frontend: nurse dashboard with live readings and color-coded alerts
 
-## Status
 
-🚧 Prototype in development for SmartX Hackathon 2026 (Final Day: 29 September 2026).
 
-## Team
-
-| Name | Role |
-|---|---|
-| Ashar Salama | CEO / Team Lead |
-| Dolagy George | CTO / Hardware Lead |
-| Nada Mohamed | COO / Business & Strategy Lead |
-| Malak Osama | Lead Software/AI Engineer |
-
-All team members are engineering students.
-
-## License
-
-TBD
